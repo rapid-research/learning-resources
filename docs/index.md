@@ -1,13 +1,18 @@
 # Overview
 
-## What is a hackweek?
+## What is a hurricane data hack session?
+
+A hurricane data hack session is a response to the requirement to conduct what would have been face-to-face meetings with virtual meetings. The hack session is a training scaled to fit a more focused time block. The focused session is designed to be accomplished within a window of approximately 2.5 - 3 hours.  The hack sessions are organized to follow a trajectory that is loosely modeled on the "Hackweek Model."
 
 [The hackweek model](https://doi.org/10.1073/pnas.1717196115) has emerged in the data
 science community as a powerful tool for fostering exchange of ideas in research
 and computation by providing training in modern data analysis workflows.
 In contrast to conventional academic conferences or workshops, hackweeks are intensive
-and interactive, facilitated by three core components: tutorials on state-of-the-art
-methodologies, peer-learning, and on-site project work in a collaborative environment.
+and interactive, facilitated by three core components: 
+1. tutorials on state-of-the-art
+methodologies, 
+2. peer-learning, and 
+3. [on-site] project work in a collaborative environment.
 Compared to hackathons typically focused on software development, hackweeks have a greater 
 focus on learning and open-ended projects as informal education and peer learning opportunities.
 This setup is particularly powerful for sciences that require not only domain-specific
@@ -19,12 +24,12 @@ and make discovery.
 ### Core objectives
 The core objectives are:
 
-1. **Promote data and software proficiency in the ocean sciences community:** Provide computational and data science skills to advance modern  research, which often requires the integration and manipulation of diverse sources of big data and models.
+1. **Promote data and software proficiency in the water research community:** Provide computational and data science skills to advance modern research, which often requires the integration and manipulation of diverse sources of (big) data and models using a variety of tools.
 
 2. **Facilitate inclusive community building:** Connect across disciplines, career stages and trajectories, and diversity of experience and identity to cultivate an inclusive, open and sharing culture that catalyzes data-intensive research.
 
 ### Training and education
-We will share knowledge in modern software tools aimed at handling increasingly large and complex oceanographic datasets. Our approach will be to develop templates for best practices in solving common data science challenges, built off a set of sample datasets provided during the workshop. We will learn from leading experts in various fields, and use this knowledge to develop educational content that can be shared across disciplines long after the event. Our training will focus on software tools, but we will also explore challenges in successfully navigating complexity in project management and design.
+We will share knowledge in modern software tools aimed at handling [increasingly large and complex] water-related datasets. Our approach will be to develop templates for best practices in solving common data science challenges, built off a set of sample datasets provided during the workshop. We will learn from leading experts in various fields, and use this knowledge to develop educational content that can be shared across disciplines long after the event. Our training will focus on software tools, but we will also explore challenges in successfully navigating complexity in project management and design.
 
 ### Networking and community building
 We will connect students, faculty, software developers and others across industry, government and academic settings. The connections we make during the hackathon will be maintained through an online user community. We hope our activities can foster the growth of an interdisciplinary network for solving Earth science challenges.
@@ -36,11 +41,11 @@ We will harness our collective talent assembled during the event to rapidly adva
 <!-- 
 ![hackweek-mission](../img/hackweek-mission.png)
 
-This preliminary tutorial is one that we would like you to complete before arriving to the hackweek. The purpose is to learn about how we plan to work with various software tools and how you can best prepare for our event. We would like everyone works through this tutorial so that we can make the best use of our time together in person.
+This preliminary tutorial is one that we would like you to complete before arriving to your first hack session. The purpose is to learn about how we plan to work with various software tools and how you can best prepare for our event. We would like everyone works through this tutorial so that we can make the best use of our time together in person.
 
-## Will my laptop work for this hackathon?
+## Will my computer work for this hackathon?
 
-All participants will be required to have their own laptop. The absolute minimum requirement is any laptop with a functioning web browser so that you can access our shared cloud computing resources. We will also teach you to install software on your own computer. For that we recommend the following:
+All participants will be required to have access to their own computer. The absolute minimum requirement is any computer with a functioning web browser so that you can access our shared cloud computing resources. We will also teach you to install software on your own computer. For that we recommend the following:
 
 * Windows Vista or newer, MAC OS X 10.7+, or Linux (Ubuntu, RedHat and others; CentOS 5+)
 * 32-bit or 64-bit
